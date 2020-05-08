@@ -12,8 +12,8 @@ Third, some of the rules have to be followed in order to use those R scripts. So
 
 The flow chart below would help you find out: (1) what did I do (e.g., CCA analysis), results I get (e.g., Fig. 3-4), R function I use (e.g., cca() etc.) against my dissertation.
 
-![Lake part](E:/R codes in Git hub/Master dissertation code/Flow Chart/Lake part.png)
+![Lake part](https://github.com/tanchaozhong/Master-Degree-Project/blob/master/Lake%20part.png)
 
-![River part](E:/R codes in Git hub/Master dissertation code/Flow Chart/River part.png)
+![River part](https://github.com/tanchaozhong/Master-Degree-Project/blob/master/River%20part.png)
 
-![Pond part](E:/R codes in Git hub/Master dissertation code/Flow Chart/Pond part.png)
+![Pond part](https://github.com/tanchaozhong/Master-Degree-Project/blob/master/Pond%20part.png)
