@@ -14,6 +14,6 @@ The flow chart below would help you find out: (1) what did I do (e.g., CCA analy
 
 ![Lake part](https://github.com/tanchaozhong/Master-Degree-Project/blob/master/Lake%20part.png)
 
-![River part](https://github.com/tanchaozhong/Master-Degree-Project/blob/master/River%20part.png)
+![River part](https://github.com/tanchaozhong/Master-Degree-Project/blob/master/River%20Part.png
 
-![Pond part](https://github.com/tanchaozhong/Master-Degree-Project/blob/master/Pond%20part.png)
+![Pond part](https://github.com/tanchaozhong/Master-Degree-Project/blob/master/Pond%20Part.png)
